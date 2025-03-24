@@ -140,6 +140,43 @@ activities = {
         "schedule": "Thursdays, 3:30 PM - 5:00 PM",
         "max_participants": 10,
         "participants": ["emma@mergington.edu", "noah@mergington.edu"]
+    },
+    # New activities
+    "Badminton Club": {
+        "description": "Learn and play badminton with peers",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 16,
+        "participants": ["olivia@mergington.edu", "ethan@mergington.edu"]
+    },
+    "Cycling Club": {
+        "description": "Explore local trails and improve cycling skills",
+        "schedule": "Saturdays, 8:00 AM - 10:00 AM",
+        "max_participants": 20,
+        "participants": ["amelia@mergington.edu", "lucas@mergington.edu"]
+    },
+    "Sculpture Workshop": {
+        "description": "Learn to create sculptures using various materials",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": ["mia@mergington.edu", "jackson@mergington.edu"]
+    },
+    "Dance Club": {
+        "description": "Practice and perform various dance styles",
+        "schedule": "Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 15,
+        "participants": ["ava@mergington.edu", "liam@mergington.edu"]
+    },
+    "Philosophy Club": {
+        "description": "Discuss philosophical ideas and their relevance",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": ["sophia@mergington.edu", "noah@mergington.edu"]
+    },
+    "Economics Club": {
+        "description": "Learn about economic principles and global markets",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": ["emma@mergington.edu", "william@mergington.edu"]
     }
 }
 
