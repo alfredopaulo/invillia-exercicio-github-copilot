@@ -104,6 +104,42 @@ activities = {
         "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 10,
         "participants": ["ethan@mergington.edu", "alexander@mergington.edu"]
+    },
+    "Volleyball Team": {
+        "description": "Practice and compete in volleyball tournaments",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": ["oliver@mergington.edu", "lucy@mergington.edu"]
+    },
+    "Track and Field": {
+        "description": "Train for track and field events and compete in meets",
+        "schedule": "Mondays, Wednesdays, Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 25,
+        "participants": ["logan@mergington.edu", "hannah@mergington.edu"]
+    },
+    "Painting Workshop": {
+        "description": "Learn advanced painting techniques and create masterpieces",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": ["nora@mergington.edu", "leo@mergington.edu"]
+    },
+    "Creative Writing Club": {
+        "description": "Write stories, poems, and essays and share them with peers",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": ["ella@mergington.edu", "samuel@mergington.edu"]
+    },
+    "Astronomy Club": {
+        "description": "Explore the universe and learn about celestial objects",
+        "schedule": "Mondays, 4:00 PM - 5:30 PM",
+        "max_participants": 15,
+        "participants": ["sophia@mergington.edu", "liam@mergington.edu"]
+    },
+    "History Club": {
+        "description": "Dive into historical events and discuss their impact",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": ["emma@mergington.edu", "noah@mergington.edu"]
     }
 }
 
